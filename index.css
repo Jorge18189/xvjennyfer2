@@ -177,7 +177,7 @@ body::before {
         font-size: 4rem;
     }
     .date {
-        font-size: 4rem; /* Larger date font on tablets */
+        font-size: 3.5rem; /* Larger date font on tablets */
     }
 }
 
@@ -189,7 +189,7 @@ body::before {
         font-size: 3.5rem;
     }
     .date {
-        font-size: 3.5rem; /* Still larger date font on mobile */
+        font-size: 3rem; /* Still larger date font on mobile */
         border-top-width: 2px; /* More visible border on small screens */
     }
 }
